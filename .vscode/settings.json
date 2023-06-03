@@ -1,0 +1,27 @@
+{
+    "files.associations": {
+        "HEAT2D.C": "cpp",
+        "HEAT_E.C": "cpp",
+        "BVP.C": "cpp",
+        "heat_animation_make.C": "cpp",
+        "HEAT_E copy.C": "cpp",
+        "HEAT_E_.C": "cpp",
+        "HEAT_E_0_grad.C": "cpp",
+        "HEAT_E_0_grad copy.C": "cpp",
+        "HEAT_E_1_grad.C": "cpp",
+        "LAP.C": "cpp",
+        "HEAT_I.C": "cpp",
+        "BVP copy.C": "cpp",
+        "vector": "cpp",
+        "ios": "cpp",
+        "iosfwd": "cpp",
+        "filesystem": "cpp",
+        "heat_animation_make copy.C": "cpp",
+        "HEAT_I copy.C": "cpp",
+        "iterator": "cpp",
+        "ADI.C": "cpp",
+        "HEAT2D copy.C": "cpp",
+        "HEAT2D_copy.C": "cpp",
+        "HEAT2D_botu.C": "cpp"
+    }
+}

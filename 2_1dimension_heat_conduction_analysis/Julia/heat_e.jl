@@ -71,8 +71,8 @@ function heat_e(boundary_condition = "Dirichlet-0")
     gif(anim, "anime/heat_$(boundary_condition).gif", fps=20)
 end
 
-# 第一引数にboundary_conditionが入る。
-# julis heat_e.jl Dirichlet-0
+# 第一引数にboundary_conditionが入る。ターミナルで以下を実行。
+# julia heat_e.jl Dirichlet-0
 # julia heat_e.jl Neumann-0
 # julia heat_e.jl Neumann-1
 if abspath(PROGRAM_FILE) == @__FILE__  # if __name__=="__main__"
